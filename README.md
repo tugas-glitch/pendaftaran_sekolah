@@ -21,6 +21,17 @@ Fitur Utama
 
 📱 Tampilan Responsive & Modern
 
+lib/
+ ├─ main.dart
+ ├─ pages/
+ │   ├─ home_page.dart
+ │   ├─ form_page.dart
+ │   ├─ data_siswa_page.dart
+ │   ├─ detail_siswa_page.dart
+ │   └─ about_page.dart
+ └─ widgets/
+     └─ custom_button.dart
+
 
 
 Teknologi yang Digunakan
