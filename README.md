@@ -21,6 +21,8 @@ Fitur Utama
 
 📱 Tampilan Responsive & Modern
 
+Struktur Folder
+
 lib/
  ├─ main.dart
  ├─ pages/
