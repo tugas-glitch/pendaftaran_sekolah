@@ -2,6 +2,7 @@ Nama : Desmala Anggraeni
 
 NIM : 14022300082
 
+
 Aplikasi Pendaftaran Sekolah
 Aplikasi Pendaftaran Sekolah adalah aplikasi berbasis Flutter yang digunakan untuk melakukan proses pendaftaran siswa secara online. Aplikasi ini mempermudah calon siswa untuk mengisi data diri, memilih jurusan, serta memantau status pendaftaran secara cepat dan efisien.
 
@@ -17,6 +18,7 @@ Fitur Utama
 📊 Dashboard Status Pendaftaran
 
 📱 Tampilan Responsive & Modern
+
 
 Teknologi yang Digunakan
 Flutter (Dart)
