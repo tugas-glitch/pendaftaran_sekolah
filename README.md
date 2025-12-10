@@ -4,9 +4,11 @@ NIM : 14022300082
 
 
 Aplikasi Pendaftaran Sekolah
+
 Aplikasi Pendaftaran Sekolah adalah aplikasi berbasis Flutter yang digunakan untuk melakukan proses pendaftaran siswa secara online. Aplikasi ini mempermudah calon siswa untuk mengisi data diri, memilih jurusan, serta memantau status pendaftaran secara cepat dan efisien.
 
 Fitur Utama
+
 📝 Formulir Pendaftaran Siswa
 
 📄 Upload Berkas
@@ -20,7 +22,9 @@ Fitur Utama
 📱 Tampilan Responsive & Modern
 
 
+
 Teknologi yang Digunakan
+
 Flutter (Dart)
 
 HTTP / Dio untuk API Request
