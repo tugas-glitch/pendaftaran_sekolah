@@ -1,16 +1,17 @@
-# pendaftaran_sekolah
+Aplikasi Pendaftaran Sekolah
+Aplikasi Pendaftaran Sekolah adalah aplikasi berbasis Flutter yang digunakan untuk melakukan proses pendaftaran siswa secara online. Aplikasi ini mempermudah calon siswa untuk mengisi data diri, memilih jurusan, serta memantau status pendaftaran secara cepat dan efisien.
 
-A new Flutter project.
+Fitur Utama
+📝 Formulir Pendaftaran Siswa
+📄 Upload Berkas
+🏫 Pemilihan Jurusan
+👤 Login & Register
+📊 Dashboard Status Pendaftaran
+📱 Tampilan Responsive & Modern
 
-## Getting Started
+Teknologi yang Digunakan
+Flutter (Dart)
+HTTP / Dio untuk API Request
+Provider / GetX / Riverpod (pilih sesuai projectmu)
+Firebase / Local Database (opsional)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
